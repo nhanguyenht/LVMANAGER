@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="NXT" targetNamespace="http://tempuri.org/Materialds.xsd" xmlns:mstns="http://tempuri.org/Materialds.xsd" xmlns="http://tempuri.org/Materialds.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="NXT" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="NXT" msprop:Generator_DataSetName="NXT" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTableNXT" msprop:Generator_UserTableName="DataTableNXT" msprop:Generator_RowDeletedName="DataTableNXTRowDeleted" msprop:Generator_RowChangedName="DataTableNXTRowChanged" msprop:Generator_RowClassName="DataTableNXTRow" msprop:Generator_RowChangingName="DataTableNXTRowChanging" msprop:Generator_RowEvArgName="DataTableNXTRowChangeEvent" msprop:Generator_RowEvHandlerName="DataTableNXTRowChangeEventHandler" msprop:Generator_TableClassName="DataTableNXTDataTable" msprop:Generator_TableVarName="tableDataTableNXT" msprop:Generator_RowDeletingName="DataTableNXTRowDeleting" msprop:Generator_TablePropName="DataTableNXT">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TENNL" msprop:Generator_UserColumnName="TENNL" msprop:Generator_ColumnVarNameInTable="columnTENNL" msprop:Generator_ColumnPropNameInRow="TENNL" msprop:Generator_ColumnPropNameInTable="TENNLColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DVT" msprop:Generator_UserColumnName="DVT" msprop:Generator_ColumnVarNameInTable="columnDVT" msprop:Generator_ColumnPropNameInRow="DVT" msprop:Generator_ColumnPropNameInTable="DVTColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SLTONDAU" msprop:Generator_UserColumnName="SLTONDAU" msprop:Generator_ColumnVarNameInTable="columnSLTONDAU" msprop:Generator_ColumnPropNameInRow="SLTONDAU" msprop:Generator_ColumnPropNameInTable="SLTONDAUColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SLNHAP" msprop:Generator_UserColumnName="SLNHAP" msprop:Generator_ColumnVarNameInTable="columnSLNHAP" msprop:Generator_ColumnPropNameInRow="SLNHAP" msprop:Generator_ColumnPropNameInTable="SLNHAPColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SLXUAT" msprop:Generator_UserColumnName="SLXUAT" msprop:Generator_ColumnVarNameInTable="columnSLXUAT" msprop:Generator_ColumnPropNameInRow="SLXUAT" msprop:Generator_ColumnPropNameInTable="SLXUATColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SLTONCUOI" msprop:Generator_UserColumnName="SLTONCUOI" msprop:Generator_ColumnPropNameInRow="SLTONCUOI" msprop:Generator_ColumnVarNameInTable="columnSLTONCUOI" msprop:Generator_ColumnPropNameInTable="SLTONCUOIColumn" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
