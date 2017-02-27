@@ -1214,36 +1214,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="bin\Debug\BackOffice.exe" />
-    <Content Include="bin\Debug\BackOffice.pdb" />
-    <Content Include="bin\Debug\BackOffice.vshost.exe" />
-    <Content Include="bin\Debug\BackOffice.xml" />
-    <Content Include="bin\Debug\Common.dll" />
-    <Content Include="bin\Debug\ConIO.dll" />
-    <Content Include="bin\Debug\Copy of location.xml" />
-    <Content Include="bin\Debug\ePos.exe" />
-    <Content Include="bin\Debug\ePos.pdb" />
-    <Content Include="bin\Debug\ePos.xml" />
-    <Content Include="bin\Debug\HardDiskID.dll" />
-    <Content Include="bin\Debug\IO.dll" />
-    <Content Include="bin\Debug\location.xml" />
-    <Content Include="bin\Debug\LVManager.exe" />
-    <Content Include="bin\Debug\LVManager.pdb" />
-    <Content Include="bin\Debug\LVManager.xml" />
-    <Content Include="bin\Debug\Windows.dll" />
-    <Content Include="bin\Release\BackOffice.exe" />
-    <Content Include="bin\Release\BackOffice.pdb" />
-    <Content Include="bin\Release\BackOffice.xml" />
-    <Content Include="bin\Release\Common.dll" />
-    <Content Include="bin\Release\ConIO.dll" />
-    <Content Include="bin\Release\ePos.exe" />
-    <Content Include="bin\Release\ePos.pdb" />
-    <Content Include="bin\Release\ePos.xml" />
-    <Content Include="bin\Release\HardDiskID.dll" />
-    <Content Include="bin\Release\IO.dll" />
-    <Content Include="bin\Release\LVManager.pdb" />
-    <Content Include="bin\Release\LVManager.xml" />
-    <Content Include="bin\Release\Windows.dll" />
     <Content Include="icon.ico" />
     <Content Include="Resources\materials_48x48.png" />
     <None Include="Reports\NXT.xsc">
@@ -1272,19 +1242,6 @@
     <None Include="Resources\profit-icon.jpg" />
     <None Include="Resources\loinhuan.png" />
     <None Include="Resources\Chonkho.png" />
-    <None Include="bin\Debug\BackOffice.exe.config" />
-    <None Include="bin\Debug\BackOffice.vshost.exe.config" />
-    <None Include="bin\Debug\BackOffice.vshost.exe.manifest" />
-    <None Include="bin\Debug\ePos.exe.config" />
-    <None Include="bin\Debug\ePos.vshost.exe.config" />
-    <None Include="bin\Debug\ePos.vshost.exe.manifest" />
-    <None Include="bin\Debug\ePost.vshost.exe.config" />
-    <None Include="bin\Debug\LVManager.exe.config" />
-    <None Include="bin\Debug\Server.ini" />
-    <None Include="bin\Debug\vs32F.tmp" />
-    <None Include="bin\Release\BackOffice.exe.config" />
-    <None Include="bin\Release\ePos.exe.config" />
-    <None Include="bin\Release\Server.ini" />
     <None Include="ClassDiagram1.cd" />
     <None Include="Resources\images.jpg" />
   </ItemGroup>
